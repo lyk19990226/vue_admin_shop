@@ -1,4 +1,5 @@
 # vue_admin_shop
+An e-commerce background management system
 
 ## Project setup
 ```
